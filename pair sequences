@@ -1,0 +1,2 @@
+# Following line downloads FASTA file containing the lambda phage reference genome
+!wget http://d28rh4a8wq0iu5.cloudfront.net/ads1/data/lambda_virus.fa
